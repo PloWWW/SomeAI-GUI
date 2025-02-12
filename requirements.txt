@@ -1,0 +1,7 @@
+flet==0.18.0
+flet-core==0.18.0
+flet-runtime==0.18.0
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+numpy==1.26.4
+flet-material==0.3.3
